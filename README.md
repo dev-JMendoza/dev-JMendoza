@@ -19,14 +19,14 @@ _________________________________________________________________________
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JulianMendoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com)
 
 _________________________________________________________________________
-# ![Google_Translate_logo svg](https://github.com/user-attachments/assets/ec131310-b6ec-4a8f-877a-ece7fe496a5c) Translation
+# ![8630403](https://github.com/user-attachments/assets/7c3ae46c-e1fb-4f33-a7a0-8b40ee00ea85) Translation
 
 
 # Hi, my name is Julian Mendoza 👋
 
 ### Software engineer focused on Backend, databases, optimization.
 
-<img src="![DALL·E 2025-02-12 00 12 10 - A minimalistic wallpaper featuring backend development technologies with a clean and elegant layout  The image includes a single, well-placed icon for](https://github.com/user-attachments/assets/83ce17fa-9b05-45a4-9a3b-938c2e56b965)" alt="Descripción" width="300" high="300"/>
+![DALL·E 2025-02-12 00 12 10 - A minimalistic wallpaper featuring backend development technologies with a clean and elegant layout  The image includes a single, well-placed icon for](https://github.com/user-attachments/assets/83ce17fa-9b05-45a4-9a3b-938c2e56b965)
 
 💻 I'm a software engineer specializing in backend development, with a strong focus on Python 🐍—not only for building efficient, secure, and scalable APIs 🚀 but also in the field of artificial intelligence 🤖. I work with technologies like Flask, FastAPI, Django, SQL/NoSQL databases 🗄️, and modern architectures, always prioritizing security 🔒, performance ⚡, and scalability 📈. I'm passionate about optimizing systems, integrating external APIs 🔗, and leveraging AI to create innovative solutions and automate processes, constantly learning 📚 to stay updated with the industry's best practices.
 
