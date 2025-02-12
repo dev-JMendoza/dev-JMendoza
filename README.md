@@ -26,7 +26,7 @@ _________________________________________________________________________
 
 ### Software engineer focused on Backend, databases, optimization.
 
-![DALL·E 2025-02-12 00 12 10 - A minimalistic wallpaper featuring backend development technologies with a clean and elegant layout  The image includes a single, well-placed icon for](https://github.com/user-attachments/assets/83ce17fa-9b05-45a4-9a3b-938c2e56b965)
+<img src="![DALL·E 2025-02-12 00 12 10 - A minimalistic wallpaper featuring backend development technologies with a clean and elegant layout  The image includes a single, well-placed icon for](https://github.com/user-attachments/assets/83ce17fa-9b05-45a4-9a3b-938c2e56b965)" alt="Descripción" width="300" high="300"/>
 
 💻 I'm a software engineer specializing in backend development, with a strong focus on Python 🐍—not only for building efficient, secure, and scalable APIs 🚀 but also in the field of artificial intelligence 🤖. I work with technologies like Flask, FastAPI, Django, SQL/NoSQL databases 🗄️, and modern architectures, always prioritizing security 🔒, performance ⚡, and scalability 📈. I'm passionate about optimizing systems, integrating external APIs 🔗, and leveraging AI to create innovative solutions and automate processes, constantly learning 📚 to stay updated with the industry's best practices.
 
