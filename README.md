@@ -19,8 +19,7 @@ _________________________________________________________________________
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JulianMendoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com)
 
 _________________________________________________________________________
-# <img src="https://github.com/user-attachments/assets/7c3ae46c-e1fb-4f33-a7a0-8b40ee00ea85" alt="Descripción" width="150" hight="150"/> 
-# Translation
+# <img src="https://github.com/user-attachments/assets/7c3ae46c-e1fb-4f33-a7a0-8b40ee00ea85" alt="Descripción" width="100" hight="100"/> Translation
 
 
 # Hi, my name is Julian Mendoza 👋
