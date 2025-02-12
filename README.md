@@ -10,9 +10,9 @@
 
 ### 📌 Además, he desarrollado varios proyectos de aplicaciones basadas en APIs, integrando datos en tiempo real ⏳ y enfocándome en la eficiencia y la seguridad del backend. Algunos de estos proyectos están disponibles en mi GitHub 🖥️, donde comparto mi trabajo y continuo explorando nuevas tecnologías para mejorar cada solución. 🚀✨
 _________________________________________________________________________
-#### 💻 I'm a software engineer specializing in backend development, with a strong focus on Python 🐍—not only for building efficient, secure, and scalable APIs 🚀 but also in the field of artificial intelligence 🤖. I work with technologies like Flask, FastAPI, Django, SQL/NoSQL databases 🗄️, and modern architectures, always prioritizing security 🔒, performance ⚡, and scalability 📈. I'm passionate about optimizing systems, integrating external APIs 🔗, and leveraging AI to create innovative solutions and automate processes, constantly learning 📚 to stay updated with the industry's best practices.
+#### *💻 I'm a software engineer specializing in backend development, with a strong focus on Python 🐍—not only for building efficient, secure, and scalable APIs 🚀 but also in the field of artificial intelligence 🤖. I work with technologies like Flask, FastAPI, Django, SQL/NoSQL databases 🗄️, and modern architectures, always prioritizing security 🔒, performance ⚡, and scalability 📈. I'm passionate about optimizing systems, integrating external APIs 🔗, and leveraging AI to create innovative solutions and automate processes, constantly learning 📚 to stay updated with the industry's best practices.*
 
-#### 📌 Additionally, I've developed several API-based applications, integrating real-time data ⏳ while focusing on backend efficiency and security. Some of these projects are available on my GitHub 🖥️, where I share my work and continue exploring new technologies to enhance each solution. 🚀✨
+#### *📌 Additionally, I've developed several API-based applications, integrating real-time data ⏳ while focusing on backend efficiency and security. Some of these projects are available on my GitHub 🖥️, where I share my work and continue exploring new technologies to enhance each solution. 🚀✨*
 
 # Encuentrame en:
 
