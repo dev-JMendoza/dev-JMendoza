@@ -16,10 +16,10 @@ _________________________________________________________________________
 
 # Encuentrame en:
 
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mend0zit4)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/m3nd0zit4)
-[![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com)
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@m3nd0zit4-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mend0zit4)
+[![Instagram](https://img.shields.io/badge/Instagram-@m3nd0zit4-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/m3nd0zit4)
+[![TikTok](https://img.shields.io/badge/TikTok-@JulianMendoza-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com)
+[![Facebook](https://img.shields.io/badge/Facebook-@JulianMendoza-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com)
 </br>
-[![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com)
+[![Link](https://img.shields.io/badge/Links-dev-JMendoza-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JulianMendoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com)
